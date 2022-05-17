@@ -2,7 +2,7 @@
   "settingsInheritedFrom": "svg-GHC-2/whitesource-config@master",
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "success",
-    "licenseCheckRunConclusionLevel": "success",
+    "licenseCheckRunConclusionLevel": "fail",
     "displayMode": "diff",
     "showWsInfo": "true"
   },
