@@ -1,5 +1,10 @@
 {
   "settingsInheritedFrom": "svg-GHC-2/whitesource-config@master",
+  "scanSettings": {
+    "configMode": "LOCAL",
+    "projectToken": "",
+    "baseBranches": []
+  },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "success",
     "licenseCheckRunConclusionLevel": "fail",
